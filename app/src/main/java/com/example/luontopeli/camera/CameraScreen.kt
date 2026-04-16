@@ -1,7 +1,5 @@
 package com.example.luontopeli.camera
 
-// 📁 camera/CameraScreen.kt
-
 import android.Manifest
 import android.content.pm.PackageManager
 import androidx.activity.compose.rememberLauncherForActivityResult

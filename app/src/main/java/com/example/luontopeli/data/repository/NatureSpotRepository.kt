@@ -1,4 +1,3 @@
-// 📁 data/repository/NatureSpotRepository.kt
 package com.example.luontopeli.data.repository
 
 import com.example.luontopeli.data.local.dao.NatureSpotDao

@@ -1,4 +1,3 @@
-// 📁 viewmodel/CameraViewModel.kt
 package com.example.luontopeli.viewmodel
 
 import android.content.Context

@@ -1,4 +1,3 @@
-// 📁 data/local/AppDatabase.kt
 package com.example.luontopeli.data.local
 
 import android.content.Context

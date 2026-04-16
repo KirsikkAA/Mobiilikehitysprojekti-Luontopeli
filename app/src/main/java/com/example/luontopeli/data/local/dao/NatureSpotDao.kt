@@ -1,4 +1,3 @@
-// 📁 data/local/dao/NatureSpotDao.kt
 package com.example.luontopeli.data.local.dao
 
 import androidx.room.*

@@ -1,4 +1,3 @@
-// 📁 data/remote/firebase/AuthManager.kt
 package com.example.luontopeli.data.remote.firebase
 
 import com.google.firebase.auth.FirebaseAuth

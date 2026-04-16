@@ -1,4 +1,3 @@
-// 📁 data/remote/firebase/StorageManager.kt
 package com.example.luontopeli.data.remote.firebase
 
 /**
